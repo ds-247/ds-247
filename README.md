@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RyNHlyeTBtejB0OTNib2o1bnRyN2NnbWkzb2Z5ZWIwZzZuaW15cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" >
 
-- 🔭 I’m currently working on [Vidly](https://github.com/ds-247/vidly-client-ui)
+- 🔭 I’m currently working on [chatqt](https://github.com/ds-247/chat-playground)
 
 - 🌱 I’m currently learning **Three.js**
 
